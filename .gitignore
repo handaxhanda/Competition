@@ -1,0 +1,12 @@
+﻿# C++のビルド生成物
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.pch
+*.ipch
+
+# Visual Studioの作業用フォルダー
+.vs/
